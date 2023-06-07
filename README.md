@@ -1,4 +1,10 @@
-# SonarQube with docker-compose
+# What is sonarqube
+
+[SonarQube](http://www.sonarqube.org/) is a self-managed, automatic code review tool that systematically helps you deliver clean code. It integrates into your existing workflow and detects issues in your code to help you perform continuous code inspections of your projects. The tool analyses [30+ different programming languages](https://rules.sonarsource.com/) and integrates into your CI pipeline and DevOps platform to ensure that your code meets high-quality standards.
+
+[source](https://docs.sonarqube.org/latest/)
+
+# run SonarQube with docker-compose
 
 ## prerequisites
 
